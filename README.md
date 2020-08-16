@@ -2,7 +2,6 @@
 ## edwith.org [부스트코스] 안드로이드 프로그래밍 강좌의 프로젝트를 구현합니다
 ## 각 브랜치 별로 프로젝트를 구현 합니다
 
-
 Project_A : 프로젝트A. 영화상세 화면
 
 <img src="https://user-images.githubusercontent.com/8035736/90331699-846bef80-dff1-11ea-9df7-db6091a7e0e2.png" width="250"/><img src="https://user-images.githubusercontent.com/8035736/90331702-89c93a00-dff1-11ea-9cd6-6281bc9b603b.png" width="250"/><img src="https://user-images.githubusercontent.com/8035736/90331704-8b92fd80-dff1-11ea-8814-ab30fb91151e.png" width="250"/><img src="https://user-images.githubusercontent.com/8035736/90331705-8d5cc100-dff1-11ea-893e-ae20afec3cb9.png" width="250"/>
