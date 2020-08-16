@@ -9,3 +9,7 @@
 - Project_F : 프로젝트F. 영화정보를 단말에 저장하기
 - Project_G : 프로젝트G. 사진보기와 동영상 재생
 - Project_H : 프로젝트H. 영화 앱을 더 즐겁게
+
+
+### 이 프로젝트는 edwith와 무관하며 개인적인 학습을 위해 만들었습니다
+### Copyright © Developer mandoo since 2020
